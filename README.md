@@ -55,9 +55,10 @@ Il m’a permis de découvrir **React.js** et de mettre en pratique la création
    ```bash
    npm run deploy
    ```
+---
 
 ## Structure du projet
-
+```
 blu-azur-site/
 │── public/          # Images, favicon, assets statiques
 │── src/             # Code source React
@@ -68,6 +69,7 @@ blu-azur-site/
 │── index.html       # Page principale
 │── package.json     # Dépendances et scripts
 │── vite.config.js   # Configuration de Vite
-
+``` 
+---
 ## Auteur 
 Développé par Laetitia RAMANANTSOA
